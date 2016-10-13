@@ -21,3 +21,12 @@ Coffee.prototype.sip = function () {
 var cof = new Coffee('black');
 cof.drink();
 cof.sip();
+
+//var b1 = new Beverage('Lemon', 'hot');
+//var b2 = new Beverage('Apple juice', 'hot');
+
+//b1.drink();
+//b2.drink();
+
+
+//var e = b1.drink === b2.drink;
