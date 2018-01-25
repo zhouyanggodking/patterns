@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CUI" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAABAABAAAAAAA=</HashCode>
+      <FileName>CUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlatformImplementor" Collapsed="true">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAEAAA=</HashCode>
+      <FileName>CPlatformImplementor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CUIButton" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABABAEAAAAAAAA=</HashCode>
+      <FileName>CUIButton.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CLinux" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAEAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>CLinux.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWindows" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAEAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>CWindows.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

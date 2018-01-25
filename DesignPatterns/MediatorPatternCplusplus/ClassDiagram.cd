@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CChatMessageBus">
+    <Position X="5.75" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAIAABAAAAAQAAAAAgAAAAAAAAAAAAAAAIAgA=</HashCode>
+      <FileName>CChatMessageBus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMessageClient">
+    <Position X="1.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAQAAAAAAAAAAAAAAAAAgAIAAAQAAAAgA=</HashCode>
+      <FileName>IMessageClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMessageMediator">
+    <Position X="5.75" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAAIAgA=</HashCode>
+      <FileName>IMessageMediator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CChatClient">
+    <Position X="1.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAQAEAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CChatClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

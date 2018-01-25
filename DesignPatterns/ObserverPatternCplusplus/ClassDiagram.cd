@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CStudent">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>CStudent.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSupperStar">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAEAAAACAAAAAIAAAABAAAAQAAAAAA=</HashCode>
+      <FileName>CSupperStar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CTeacher">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>CTeacher.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMessageObserver">
+    <Position X="1.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAEAAA=</HashCode>
+      <FileName>IMessageObserver.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMessageSource">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAACAAAAAQAAAAAAAAAQAAAAEA=</HashCode>
+      <FileName>IMessageSource.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

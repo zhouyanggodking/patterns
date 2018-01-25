@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CommandPattern.RemoteController">
+    <Position X="2" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAgAAAAAAAQAAAAAAAACAAgAAQAAAAAA=</HashCode>
+      <FileName>RemoteController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Commands.DisplayCommand" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\DisplayCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Commands.MoveNextCommand" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\MoveNextCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Commands.MovePreviousCommand" Collapsed="true">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\MovePreviousCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Commands.TVCommand" Collapsed="true">
+    <Position X="6.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\TVCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Factory.PhilipsTVFactory" Collapsed="true">
+    <Position X="3.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\PhilipsTVFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Factory.SonyTVFactory" Collapsed="true">
+    <Position X="1.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\SonyTVFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Factory.TVFactory" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Factory\TVFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Product.PhilipsTV" Collapsed="true">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Product\PhilipsTV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Product.SonyTV" Collapsed="true">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Product\SonyTV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CommandPattern.Product.TV" Collapsed="true">
+    <Position X="6.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Product\TV.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BridgeDesignPatterns.Mario" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAA=</HashCode>
+      <FileName>Mario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeDesignPatterns.Mario2D" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mario2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeDesignPatterns.Mario3D" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Mario3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeDesignPatterns.Program" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeDesignPatterns.Platforms.IPADPlatform" Collapsed="true">
+    <Position X="4.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAE=</HashCode>
+      <FileName>Platform\IPADPlatform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeDesignPatterns.Platforms.LinuxPlatform" Collapsed="true">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAE=</HashCode>
+      <FileName>Platform\LinuxPlatform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeDesignPatterns.Platforms.Platform" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAE=</HashCode>
+      <FileName>Platform\Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgeDesignPatterns.Platforms.WindowsPlatform" Collapsed="true">
+    <Position X="6.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAE=</HashCode>
+      <FileName>Platform\WindowsPlatform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

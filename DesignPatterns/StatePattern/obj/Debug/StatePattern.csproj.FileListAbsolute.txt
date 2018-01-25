@@ -1,0 +1,1 @@
+C:\Users\sxzhou\Source\Repos\DesignPattern\DesignPatterns\StatePattern\bin\Debug\StatePattern.exe.config

@@ -1,0 +1,1 @@
+﻿Facade pattern simplifies complex interfaces and easy to use for users
